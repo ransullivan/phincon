@@ -1,0 +1,5 @@
+com\id\phincon\controllers\BookController.class
+com\id\phincon\PhinconApplication.class
+com\id\phincon\repository\BookRepository.class
+com\id\phincon\service\BookService.class
+com\id\phincon\entity\Book.class
